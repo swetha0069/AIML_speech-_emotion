@@ -7,8 +7,7 @@ This project uses **MLPClassifier** to detect emotions from audio files.
 ### How to Run:
 1. Download the [RAVDESS Dataset](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio).
 2. Install libraries: `pip install librosa soundfile streamlit sklearn`
-3. Run the UI: `python -m streamlit run app.py`
-https://github.com/divya223352/speech-emotion-recognition
+3. Run the UI: `python -m streamlit run app.py` 
 https://speech-emotion-recognition-wvtdgjfsn3rzkcsvv7hhzs.streamlit.app/
 ✨ Features
 🧠 Deep Learning Analysis: Employs Convolutional Neural Networks (CNN) or MLP Classifiers to detect subtle emotional patterns.
